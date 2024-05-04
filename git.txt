@@ -1,0 +1,23 @@
+Commands for 2A assignments
+
+-> mkdir Part-A  //created a directory
+
+-> git --version
+
+ //Create repo on GitHub
+
+ //create file in the folder 
+
+-> git init //to initialise
+
+-> git add .  //to add multiple files
+
+-> git status  //to check status
+
+-> git remote add origin "[add repo https link]"  
+
+-> git commit -m "[write a message]"
+
+-> git push --set-upstream origin master
+
+-> git p
