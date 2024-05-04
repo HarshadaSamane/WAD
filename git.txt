@@ -18,6 +18,6 @@ Commands for 2A assignments
 
 -> git commit -m "[write a message]"
 
--> git push --set-upstream origin master
+-> git push -u origin main
 
--> git p
+-> git push  //to add file after doing changes
